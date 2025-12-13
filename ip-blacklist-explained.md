@@ -1,6 +1,6 @@
 # What Does It Mean if an IP Address Is Blacklisted?
 
-An IP address may be described as “blacklisted” when it appears on one or more
+An [IP address](https://myipnow.net) may be described as “blacklisted” when it appears on one or more
 reputation or block lists used to flag potentially abusive network behavior.
 These lists are commonly referenced by email servers, firewalls, and security
 systems to reduce spam, fraud, or malicious activity.
