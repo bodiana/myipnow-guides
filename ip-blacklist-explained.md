@@ -55,7 +55,7 @@ impact deliverability or access.
 Blacklist checks typically involve querying multiple reputation databases to
 see whether an IP appears on any of them.
 
-Utilities such as [MyIPNow](https://myipnow.net) provide IP blacklist checking
+Utilities such as [MyIPNow](https://myipnow.net) provide [IP blacklist](https://myipnow.net/ip-blacklist) checking
 alongside other network inspection tools, allowing users to identify possible
 listing issues before taking remediation steps.
 
