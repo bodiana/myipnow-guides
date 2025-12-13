@@ -3,7 +3,7 @@
 Knowing your public [IP address](https://myipnow.net) is often the first step in diagnosing
 connectivity problems, understanding network exposure, or verifying how
 your device appears on the internet. This guide explains what a public
-IP address is, how IPv4 and IPv6 differ, and when checking your IP is useful.
+IP address is, how IPv4 and IPv6 differ, and when checking your IP address is useful.
 
 ---
 
